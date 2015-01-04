@@ -1,4 +1,4 @@
-# SFL-Heritage-web
+# SFL-Heritage
 
 Scam generator
 

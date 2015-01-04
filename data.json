@@ -1,0 +1,91 @@
+{
+  "country": [
+    "Iraq", "Nigeria", "Afghanistan", "Mozambique", "Angola", "Zimbabwe", "Ethiopia",
+    "Cote d'ivoire", "Bangladesh", "Comoros", "Burkina Faso", "Congo", "Sudan"
+  ],
+  "relative": [
+    "husband", "father", "cousin", "brother", "uncle", "stepfather", "grandfather"
+  ],
+  "deathReaction": [
+    "Unfortunately", "Sadly", "To my despair", "Despite his reputation"],
+  "deathMethod": [
+    "was killed", "was executed", "starved to death", "was raped and killed", "was poisoned", "was beheaded",
+    "was crucified", "was eaten", "was hanged", "was shot", "was beaten to death", "commited suicide",
+    "was crushed with a sledgehammer", "was dissolved in an acid tank", "drowned in a beer tank"
+  ],
+  "cachette": [
+    "prison", "bunker", "garbage bin", "garage", "farm", "brothel", "basement",
+    "Saddam's palace", "cave", "washroom", "datacenter", "piggery", "car's trunk"
+  ],
+  "currencies": [
+    "USD", "GBP", "CAD", "Euros", "RMB", "AUD"],
+  "profession": [
+    "judge", "finance officer", "sysadmin", "CIO", "soldier", "officer", "priest", "warlord", "sergent", "journalist",
+    "successful lawyer", "general", "minister", "porn actor", "drug dealer", "banker", "Microsoft employee",
+    "Microsoft Certified Professional", "wealthy farmer", "businessman", "spy", "Internet scammer",
+    "Somali pirate", "nude dancer", "director of a big company", "Romanian hacker"
+  ],
+  "events": [
+    "Gulf war", "Afghanistan war", "September 11th attacks", "Tunisian revolution",
+    "Algerian terrorist period", "Rwandan civil war", "Vietnam War",
+    "Haitian earthquake", "Tamil Tiger attacks", "riots", "meteorite fall",
+    "revolution", "U S bombing", "food shortage", "elections", "US invasion",
+    "Israeli attack on Lebanon", "chemical weapons testing", "Intifadha",
+    "terrorist act", "Tchernobyl nuclear accident", "tyrannosaurs attack",
+    "execution of Saddam Hussein", "flood", "extratterrestrial invasion", "collapse of the Soviet Union"
+  ],
+  "persons": [
+    "Sir", "Madam", "Sir/Madam", "valued contact", "brother in Christ", "sister in Christ"],
+  "expeditorFirstName": [
+    "Samira", "Yasmina", "Marie", "Natasha", "Gabriela", "Alexandra", "Mona",
+    "Jiang", "Elizabeth", "Grace", "Lala"
+  ],
+  "expeditorLastName": [
+    "Ben Laden", "Hussein", "Zulu", "Abondis", "Wong", "Tang", "Ballmer", "de Raadt", "Orahee", "Kibaki"],
+  "mymood": [
+    "am desperate", "am unlucky", "am depressed", "almost died", "am devastated", "am exhausted", "am very tired"],
+  "truthQuality": [
+    "unbelievable", "awful", "sad", "shocking", "disgusting", "depressing"],
+  "qualityPerson": [
+    "a person I can trust", "a God-fearing person", "very kind", "very honest", "a very honourable person",
+    "a respected citizen", "somebody I can trust"
+  ],
+  "evil": [
+    "Satan worshiping", "diabolic", "Ctulhu-worshiping", "sadist", "Nazi", "fascist", "cocaine addicted", "sadist, perverted",
+    "crack-addicted, Ctulhu worshiping", "voodoo zombie-worshiping", "Satanic followers", "Satanist", "incest lovers",
+    "cannibal", "corrupted", "godawful stinking sadomasochists", "EULA worshiping"
+  ],
+  "torture": [
+    "agressed me with a meteorite", "hit me with a hockey cross", "hit me with a crowbar",
+    "agressed me with a rusted motherboard", "beated me with hard disk platters", "hit my head with Saddam portrait",
+    "threatened me with a golden kalashnikov", "obliged me to configure a Nortel PBX", "obliged me to rewrite Linux in brainfuck",
+    "made me seat on a hot tandoori oven", "obliged me to work in a nude dancers bar", "obliged me to work in a gay sex shop",
+    "obliged me to rewrite the MS Access EULA with my blood", "obliged me to work with Windows Vista on a 286 computer",
+    "obliged me to rewrite the OpenBSD kernel in Visual Basic", "obliged me to clean their dirty wahsroom", "hit me with a guitar"
+  ],
+  "personalInformation": [
+    "your social insurance number", "your scanned signature in a JPEG file",
+    "your fingerprints scanned in a high resolution BMP file", "your private SSH key",
+    "your ID", "your passport", "your biometric data", "your DNA", "your credit card number and secret code",
+    "your birth certificate", "your driver's license", "your private GPG key", "a sample of your hair",
+    "all your bank statements", "the brand of your first car", "the name of the place where your parents met",
+    "the name of your favorite actor", "your PayPal credentials", "an MDB file with all your passwords"
+  ],
+  "period": [
+    "day", "night", "month", "week"],
+  "admired": [
+    "Jesus", "Buddha", "Gandhi", "Martin Luther King", "Abraham Lincoln", "Steve Jobs",
+    "Lenin", "Stalin", "Napoleon I", "Alexander the Great", "Pharaoh Ramses II", "the Zulu King", "Richard Stallman",
+    "Saddam Hussein", "Charles de Gaulle", "the Pope", "Jonh Paul II", "Samuel de Champlain",
+    "Haile Selassie I", "the Ras Tafari", "the Dalai Lama", "the Queen", "Mother Theresa", "Che Guevara",
+    "George Washington", "Celine Dion", "Michael Jackson", "Oprah Winfrey", "King David", "King Solomon", "Arnold Schwarzenegger",
+    "Simon Bolivar", "Fidel Castro", "Bill Gates", "Muammar Kaddhafi", "our Lady Mary", "Mao Zedong"
+  ],
+  "device": [
+    "iPhone", "iPad", "Android device", "Android smartphone", "netbook", "N900", "BlackBerry", "Palm Pre"],
+  "divineAward": [
+    "health and wealth", "money", "children", "Microsoft Access Licenses", "blessings", "money and biryani", "inheritances",
+    "rice", "stuffed gnus", "Microsoft Certifications", "uranium", "cheap nigerian oil", "cheap saudi oil",
+    "inodes on your harddrive", "wobbly windows", "pi decimal digits", "AirMiles", "healthy food", "CPU cores"
+  ]
+}

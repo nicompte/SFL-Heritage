@@ -1,4 +1,5 @@
-var React = require('react');
+var React = require('react'),
+  nprogress = require('nprogress');
 
 var data = require('../data.json');
 
@@ -63,8 +64,10 @@ var SFLBox = React.createClass({
     this.props.data = dico;
   },
   refresh: function(){
-    this.getData()
-    this.setState({data: this.props.data})
+    nprogress.start();
+    this.getData();
+    this.setState({data: this.props.data});
+    nprogress.done();
   }
 });
 

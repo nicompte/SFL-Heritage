@@ -23,7 +23,7 @@ gulp.task('clean', function(done) {
 // Our CSS task. It finds all our Stylus files and compiles them.
 gulp.task('css', ['clean'], function() {
   return gulp.src(paths.css)
-  .pipe(stylus())
+  .pipe(stylus({ 'include css': true }))
   .pipe(gulp.dest('styles'));
 });
 

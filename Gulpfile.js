@@ -36,14 +36,14 @@ gulp.task('js', ['clean'], function() {
     extensions: '.jsx'
   })
   .bundle()
-  .pipe(source('bundle.js'))
+  .pipe(source('scripts/bundle.js'))
   .pipe(gulp.dest('.'));
 });
 
 gulp.task('uglify', ['js'], function(){
-  return gulp.src('bundle.js')
+  return gulp.src('scripts/bundle.js')
   .pipe(uglify())
-  .pipe(gulp.dest('.'));
+  .pipe(gulp.dest('scripts'));
 });
 
 gulp.task('watch', function() {

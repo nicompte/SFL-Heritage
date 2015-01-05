@@ -91,3 +91,6 @@
 #nprogress .peg {
   box-shadow: 0 0 10px #e95d4f, 0 0 5px #e95d4f;
 }
+#nprogress .spinner {
+  display: none;
+}

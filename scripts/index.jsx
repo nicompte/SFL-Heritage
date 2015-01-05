@@ -70,8 +70,9 @@ var SFLBox = React.createClass({
     nprogress.done();
   }
 });
-
+nprogress.start();
 React.render(
   <SFLBox />,
   document.getElementById('sfl-box')
 );
+nprogress.done();

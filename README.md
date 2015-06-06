@@ -1,6 +1,6 @@
-# SFL-Heritage
+# Scam generator
 
-Scam generator
+scam-generator is a... scam generator. 
 
 ## Build
 
